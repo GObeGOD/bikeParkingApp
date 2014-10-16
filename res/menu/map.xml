@@ -1,0 +1,27 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item android:id="@+id/search"
+          android:title="@string/search_title"
+          android:icon="@drawable/ic_search"
+          android:showAsAction="collapseActionView|ifRoom"
+          android:onClick="onSearchClick"
+          android:actionViewClass="android.widget.SearchView" />
+    
+    
+    <item android:id="@+id/twitter"
+          android:title="@string/twitter_title"
+          android:icon="@drawable/twitter_bird_icon"
+          android:showAsAction="collapseActionView|ifRoom"
+          android:onClick="onTwitterClick"
+        />
+    
+    <item android:id="@+id/SaveLoc" 
+          android:title="@string/save_title"
+          android:icon="@drawable/save_icon"
+          android:showAsAction="collapseActionView|ifRoom"
+          android:onClick="onSaveClick"
+        />
+    
+    
+
+</menu>

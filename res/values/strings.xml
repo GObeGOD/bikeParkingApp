@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Biking App</string>
+    <string name="toMapText">Parking Locations</string>
+    <string name="savedLocations">Saved parking locations</string>
+    
+    <string name="activity_mapTitle">Map</string>
+        <string name="activity_MainTitle">ParkMyBike</string>
+  		<string name="savelist">Saved Locations</string>
+        
+      		<string name="save_title">Save</string>
+  			<string name="pin_image">Marker image</string>
+      	    <string name="rate">Rating:4.3</string>
+  			
+    <string name="search_title">Search</string>
+        <string name="twitter_title">Twitter</string>
+            <string name="main_text">Find locations to park your bike or
+                create your own</string>
+        
+    
+    
+
+</resources>
